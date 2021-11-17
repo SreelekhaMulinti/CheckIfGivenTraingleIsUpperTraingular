@@ -1,1 +1,1 @@
-# CheckIfGivenTraingleIsUpperTraingular
+# CheckIfGivenMatrixIsUpperTraingular
